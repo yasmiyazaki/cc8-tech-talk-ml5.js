@@ -1,0 +1,18 @@
+{
+  "name": "ml5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yasmiyazaki/cc8-tech-talk-ml5.js.git",
+  "author": "yasmiyazaki <kizayami.yasu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
